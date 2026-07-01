@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate Full-Stack Software Engineer focused on building high-performance, premium, and scalable web applications. I love bridging the gap between clean code and exceptional user experiences.<br><br>Beyond traditional development, I am deeply invested in "Vibe Coding"—leveraging advanced AI agents and modular architectures to optimize development workflows and speed up software delivery.<br><br>💻 Primary Stack: Specialized in the MERN Stack (MongoDB, Express, React, Node.js) and modern frameworks like Next.js.<br><br>🛠️ Multilingual Foundation: Proficient in Java, Python, and C++ for diverse computing tasks.<br><br>🎯 Quality-Driven: Strong focus on Software Quality Assurance (SQA) and workflow automation to ensure everything I build is robust, reliable, and scalable.<br><br>🎨 Design Philosophy: I advocate for clean, minimalist, and "premium" modern UI/UX design
+I'm a full-stack developer who genuinely loves the puzzle of building software, from clean system architecture to the final user interface. My favorite part of engineering is staying on the move—I’m incredibly curious and always hunting for new tools, frameworks, and next-gen AI technologies to break down complex workflows and speed up development. For me, the ultimate goal is simple: write maintainable code, experiment with the bleeding edge, and build digital products that feel fast, smart, and intentional.
 
 
 ## 🌐 Socials:
