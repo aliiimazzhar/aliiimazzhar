@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full-stack developer who genuinely loves the puzzle of building software, from clean system architecture to the final user interface. My favorite part of engineering is staying on the move—I’m incredibly curious and always hunting for new tools, frameworks, and next-gen AI technologies to break down complex workflows and speed up development. For me, the ultimate goal is simple: write maintainable code, experiment with the bleeding edge, and build digital products that feel fast, smart, and intentional.
+I'm a full-stack developer who genuinely loves the puzzle of building software, from clean system architecture to the final user interface. My favorite part of engineering is staying on the move, I’m incredibly curious and always hunting for new tools, frameworks, and next-gen AI technologies to break down complex workflows and speed up development. For me, the ultimate goal is simple: write maintainable code, experiment with the bleeding edge, and build digital products that feel fast, smart, and intentional.
 
 
 ## 🌐 Connect With Me
